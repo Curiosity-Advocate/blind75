@@ -7,8 +7,8 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | :--: | ---- |
 | [3Sum](https://leetcode.com/problems/3sum/)                                                                                                           | Medium     | [X]  |      |
 | [Add and Search Word](https://leetcode.com/problems/design-add-and-search-words-data-structure/)                                                      | Medium     | [X]  |      |
-| [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) ᴾ                                                                                 | Hard       | [ ]  |      |
-| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                     | Easy       | [ ]  |      |
+| [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) ᴾ                                                                                 | Hard       | [X]  |      |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                     | Easy       | [X]  |      |
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                                 | Medium     | [ ]  |      |
 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                           | Hard       | [ ]  |      |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                     | Easy       | [ ]  |      |
