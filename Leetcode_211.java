@@ -1,4 +1,4 @@
-public class DesignAddAndSearchWordsDataStructure {
+public class Leetcode_211 {
 
     class Node {
         boolean isEnd;

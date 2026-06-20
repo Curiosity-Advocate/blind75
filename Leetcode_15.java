@@ -6,7 +6,7 @@ import java.util.List;
 
 // First Attempt
 /*
-class Solution {
+class Leetcode_15 {
     public List<List<Integer>> threeSum(int[] nums) {
 
         List<List<Integer>> results = new ArrayList<>();
@@ -32,7 +32,7 @@ class Solution {
 
 // My Solution
 /*
-class Solution {
+class Leetcode_15 {
     public List<List<Integer>> threeSum(int[] nums) {
 
         List<List<Integer>> results = new ArrayList<>();
@@ -67,7 +67,7 @@ class Solution {
 */
 
 // My reconstruction of the Leetcode's optimal solution
-class Solution {
+class Leetcode_15 {
     public List<List<Integer>> threeSum(int[] nums) {
 
         List<List<Integer>> results = new ArrayList<>();
@@ -75,32 +75,36 @@ class Solution {
         Arrays.sort(nums);
 
         for (int i = 0; i < nums.length; i++) {
-            
-            if(i > 0 && nums[i] == nums[i-1]) continue;
-            if(nums[i] > 0) break;
+
+            if (i > 0 && nums[i] == nums[i - 1])
+                continue;
+            if (nums[i] > 0)
+                break;
 
             int lowInd = i + 1;
             int hiInd = nums.length - 1;
 
-            while(lowInd < hiInd){
+            while (lowInd < hiInd) {
 
                 int sum = nums[i] + nums[lowInd] + nums[hiInd];
 
-                if(sum < 0){
+                if (sum < 0) {
                     lowInd++;
                 }
 
-                else if(sum > 0){
+                else if (sum > 0) {
                     hiInd--;
                 }
 
                 else {
-                    results.add(Arrays.asList(nums[i],nums[lowInd],nums[hiInd]));
+                    results.add(Arrays.asList(nums[i], nums[lowInd], nums[hiInd]));
                     lowInd++;
                     hiInd--;
 
-                    while(lowInd < hiInd && nums[lowInd] == nums[lowInd-1]) continue;
-                    while(hiInd > lowInd && nums[hiInd] == nums[hiInd+1]) continue;
+                    while (lowInd < hiInd && nums[lowInd] == nums[lowInd - 1])
+                        continue;
+                    while (hiInd > lowInd && nums[hiInd] == nums[hiInd + 1])
+                        continue;
                 }
             }
         }
