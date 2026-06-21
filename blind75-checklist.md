@@ -14,7 +14,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                     | Easy       | [X]  |      |
 | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                                                             | Medium     | [X]  |      |
 | [Coin Change](https://leetcode.com/problems/coin-change/)                                                                                             | Medium     | [X]  |      |
-| [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                     | Medium     | [ ]  |      |
+| [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                     | Medium     | [X]  |      |
 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium     | [ ]  |      |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                                                 | Medium     | [ ]  |      |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                               | Easy       | [ ]  |      |
