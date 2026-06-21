@@ -10,7 +10,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) ᴾ                                                                                 | Hard       | [X]  |      |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                     | Easy       | [X]  |      |
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                                 | Medium     | [X]  |      |
-| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                           | Hard       | [ ]  |      |
+| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                           | Hard       | [X]  |      |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                     | Easy       | [ ]  |      |
 | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                                                             | Medium     | [ ]  |      |
 | [Coin Change](https://leetcode.com/problems/coin-change/)                                                                                             | Medium     | [ ]  |      |
