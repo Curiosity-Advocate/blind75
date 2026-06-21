@@ -13,7 +13,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                           | Hard       | [X]  |      |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                     | Easy       | [X]  |      |
 | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                                                             | Medium     | [X]  |      |
-| [Coin Change](https://leetcode.com/problems/coin-change/)                                                                                             | Medium     | [ ]  |      |
+| [Coin Change](https://leetcode.com/problems/coin-change/)                                                                                             | Medium     | [X]  |      |
 | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                     | Medium     | [ ]  |      |
 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium     | [ ]  |      |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                                                 | Medium     | [ ]  |      |
