@@ -19,7 +19,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 12 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                                                 | Medium     | [x] | 19m 2s |
 | 13 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                               | Easy       | [x] | 6m 20s |
 | 14 | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                                         | Easy       | [x] | 29m 17s |
-| 15 | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                                     | Medium     | [ ]  |      |
+| 15 | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                                     | Medium     | [x] | 29m 0s |
 | 16 | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                                                             | Medium     | [ ]  |      |
 | 17 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) ᴾ                                                               | Medium     | [ ]  |      |
 | 18 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                           | Hard       | [ ]  |      |
