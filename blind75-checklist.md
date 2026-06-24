@@ -22,7 +22,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 15 | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                                     | Medium     | [x]  | 29m 0s  |
 | 16 | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                                                             | Medium     | [ ]  |         |
 | 17 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) ᴾ                                                               | Medium     | [x] | 43m 30s |
-| 18 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                           | Hard       | [ ]  |         |
+| 18 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                           | Hard       | [x] | 25m 30s |
 | 19 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                                           | Medium     | [ ]  |         |
 | 20 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ᴾ                                                                                 | Medium     | [ ]  |         |
 | 21 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                       | Medium     | [ ]  |         |
