@@ -25,7 +25,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 18 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                           | Hard       | [x] | 25m 30s |
 | 19 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                                           | Medium     | [x] | 39m 22s |
 | 20 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ᴾ                                                                                 | Medium     | [x] | 42m 0s |
-| 21 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                       | Medium     | [ ]  |         |
+| 21 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                       | Medium     | [x] | 10m 36s |
 | 22 | [House Robber](https://leetcode.com/problems/house-robber/)                                                                                           | Medium     | [ ]  |         |
 | 23 | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                                                     | Medium     | [ ]  |         |
 | 24 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                             | Medium     | [ ]  |         |
