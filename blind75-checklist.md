@@ -28,7 +28,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 21 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                       | Medium     | [x] | 10m 36s |
 | 22 | [House Robber](https://leetcode.com/problems/house-robber/)                                                                                           | Medium     | [x] | 23m 55s |
 | 23 | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                                                     | Medium     | [x] | 37m 7s |
-| 24 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                             | Medium     | [ ]  |         |
+| 24 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                             | Medium     | [x] | 11m 44s |
 | 25 | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                                     | Medium     | [ ]  |         |
 | 26 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                                               | Easy       | [ ]  |         |
 | 27 | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                 | Medium     | [ ]  |         |
