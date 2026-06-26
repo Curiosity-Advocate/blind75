@@ -26,7 +26,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 19 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                                           | Medium     | [x] | 39m 22s |
 | 20 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) ᴾ                                                                                 | Medium     | [x] | 42m 0s |
 | 21 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                       | Medium     | [x] | 10m 36s |
-| 22 | [House Robber](https://leetcode.com/problems/house-robber/)                                                                                           | Medium     | [ ]  |         |
+| 22 | [House Robber](https://leetcode.com/problems/house-robber/)                                                                                           | Medium     | [x] | 23m 55s |
 | 23 | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                                                     | Medium     | [ ]  |         |
 | 24 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                             | Medium     | [ ]  |         |
 | 25 | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                                     | Medium     | [ ]  |         |
