@@ -32,7 +32,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 25 | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                                     | Medium     | [x] | 30m 18s |
 | 26 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                                               | Easy       | [x] | 6m 10s |
 | 27 | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                 | Medium     | [x] | 28m 7s |
-| 28 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                                         | Medium     | [ ]  |         |
+| 28 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                                         | Medium     | [x] | 18m 52s |
 | 29 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                 | Easy       | [ ]  |         |
 | 30 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                               | Medium     | [ ]  |         |
 | 31 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                           | Medium     | [ ]  |         |
