@@ -30,7 +30,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 23 | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                                                     | Medium     | [x] | 37m 7s |
 | 24 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                             | Medium     | [x] | 11m 44s |
 | 25 | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                                     | Medium     | [x] | 30m 18s |
-| 26 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                                               | Easy       | [ ]  |         |
+| 26 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                                               | Easy       | [x] | 6m 10s |
 | 27 | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                 | Medium     | [ ]  |         |
 | 28 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                                         | Medium     | [ ]  |         |
 | 29 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                 | Easy       | [ ]  |         |
