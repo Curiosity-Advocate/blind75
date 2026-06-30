@@ -34,8 +34,8 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 27 | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                 | Medium     | [x] | 28m 7s |
 | 28 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                                         | Medium     | [x] | 18m 52s |
 | 29 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                 | Easy       | [x] | 22m 49s |
-| 30 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                               | Medium     | [ ]  |         |
-| 31 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                           | Medium     | [ ]  |         |
+| 30 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                               | Medium     | [x]  | 9m 57s |
+| 31 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                           | Medium     | [x] | 40m 46s |
 | 32 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                                       | Medium     | [ ]  |         |
 | 33 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                         | Medium     | [ ]  |         |
 | 34 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                                     | Medium     | [ ]  |         |
