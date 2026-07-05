@@ -37,7 +37,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 30 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                               | Medium     | [x]  | 9m 57s |
 | 31 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                           | Medium     | [x] | 40m 46s |
 | 32 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                                       | Medium     | [x] | 39m 31s |
-| 33 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                         | Medium     | [ ]  |         |
+| 33 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                         | Medium     | [x] | 27m 35s |
 | 34 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                                     | Medium     | [ ]  |         |
 | 35 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                       | Medium     | [ ]  |         |
 | 36 | [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                                      | Medium     | [ ]  |         |
