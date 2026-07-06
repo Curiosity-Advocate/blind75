@@ -41,7 +41,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 34 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                                     | Medium     | [x] | 40m 41s |
 | 35 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                       | Medium     | [x] | 21m 47s |
 | 36 | [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                                      | Medium     | [x] | 23m 31s |
-| 37 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                           | Easy       | [ ]  |         |
+| 37 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                           | Easy       | [x] | 9m 4s |
 | 38 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                                                   | Medium     | [ ]  |         |
 | 39 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                   | Medium     | [ ]  |         |
 | 40 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) ᴾ                                                                                       | Easy       | [ ]  |         |
