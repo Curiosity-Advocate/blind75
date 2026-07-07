@@ -43,7 +43,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 36 | [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                                      | Medium     | [x] | 23m 31s |
 | 37 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                           | Easy       | [x] | 9m 4s |
 | 38 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                                                   | Medium     | [x] | 35m 25s |
-| 39 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                   | Medium     | [ ]  |         |
+| 39 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                   | Medium     | [x] | 17m 37s |
 | 40 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) ᴾ                                                                                       | Easy       | [ ]  |         |
 | 41 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) ᴾ                                                                                 | Medium     | [ ]  |         |
 | 42 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                     | Medium     | [ ]  |         |
