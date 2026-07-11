@@ -46,7 +46,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 39 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                   | Medium     | [x] | 17m 37s |
 | 40 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) ᴾ                                                                                       | Easy       | [x] | 0s |
 | 41 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) ᴾ                                                                                 | Medium     | [x] | 37m 29s |
-| 42 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                     | Medium     | [ ]  |         |
+| 42 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                     | Medium     | [x] | 15m 32s |
 | 43 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                                           | Hard       | [ ]  |         |
 | 44 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                                       | Easy       | [ ]  |         |
 | 45 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                                                   | Hard       | [ ]  |         |
