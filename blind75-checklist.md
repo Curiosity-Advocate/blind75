@@ -48,7 +48,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 41 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) ᴾ                                                                                 | Medium     | [x] | 37m 29s |
 | 42 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                     | Medium     | [x] | 15m 32s |
 | 43 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                                           | Hard       | [x] | 45m 46s |
-| 44 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                                       | Easy       | [ ]  |         |
+| 44 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                                       | Easy       | [x] | 6m 34s |
 | 45 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                                                   | Hard       | [ ]  |         |
 | 46 | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                                       | Easy       | [ ]  |         |
 | 47 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                                 | Medium     | [ ]  |         |
