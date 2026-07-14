@@ -1,0 +1,12 @@
+plugins {
+    id("org.jetbrains.kotlin.jvm")
+}
+
+kotlin {
+    jvmToolchain(17)
+}
+
+dependencies {
+    testImplementation("org.jetbrains.kotlin:kotlin-test")
+    testImplementation("junit:junit:4.13.2")
+}

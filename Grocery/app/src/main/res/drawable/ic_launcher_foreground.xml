@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Full shopping trolley with a dollar coin and a rising price chart. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Rising chart bars peeking out of the trolley (the "full" load) -->
+    <path
+        android:fillColor="#A5D6A7"
+        android:pathData="M40,46 h6 v-8 h-6 z" />
+    <path
+        android:fillColor="#C8E6C9"
+        android:pathData="M49,46 h6 v-13 h-6 z" />
+    <path
+        android:fillColor="#E8F5E9"
+        android:pathData="M58,46 h6 v-18 h-6 z" />
+    <!-- Chart trend arrow above the bars -->
+    <path
+        android:strokeColor="#FFEB3B"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M40,34 L52,24 L58,27 L66,19" />
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M66,19 L60,19.5 L64.5,24.5 z" />
+
+    <!-- Trolley basket -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M30,42 L36,64 L66,64 L72,46" />
+    <!-- Basket grid lines -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M39,48 L68,48 M41,56 L66,56 M44,45 L48,64 M53,45 L55,64 M61,45 L62,64" />
+    <!-- Handle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M30,42 L26,34 L20,34" />
+    <!-- Wheels -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,72 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,72 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+
+    <!-- Dollar coin resting against the basket -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M76,60 m-9,0 a9,9 0 1,1 18,0 a9,9 0 1,1 -18,0" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M76,60 m-7,0 a7,7 0 1,1 14,0 a7,7 0 1,1 -14,0" />
+    <path
+        android:strokeColor="#8D6E00"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M79,56.5 C78,55.5 74,55 73.5,57.5 C73,60 79,60 78.5,62.5 C78,65 74,64.5 73,63.5 M76,54 L76,66" />
+</vector>
