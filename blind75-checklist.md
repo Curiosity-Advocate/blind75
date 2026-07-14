@@ -50,7 +50,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 43 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                                           | Hard       | [x] | 45m 46s |
 | 44 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                                       | Easy       | [x] | 6m 34s |
 | 45 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                                                   | Hard       | [x] | 25h 44m |
-| 46 | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                                       | Easy       | [ ]  |         |
+| 46 | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                                       | Easy       | [x] | 5m 24s |
 | 47 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                                 | Medium     | [ ]  |         |
 | 48 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                                   | Easy       | [ ]  |         |
 | 49 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) ᴾ       | Medium     | [ ]  |         |
