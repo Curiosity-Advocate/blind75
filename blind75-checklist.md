@@ -52,7 +52,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 45 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                                                   | Hard       | [x] | 25h 44m |
 | 46 | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                                       | Easy       | [x] | 5m 24s |
 | 47 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                                 | Medium     | [x] | 40m 9s |
-| 48 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                                   | Easy       | [ ]  |         |
+| 48 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                                   | Easy       | [x] | 4m 15s |
 | 49 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) ᴾ       | Medium     | [ ]  |         |
 | 50 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                 | Medium     | [ ]  |         |
 | 51 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                                             | Medium     | [ ]  |         |
