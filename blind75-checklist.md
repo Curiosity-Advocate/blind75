@@ -54,7 +54,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 47 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                                 | Medium     | [x] | 40m 9s |
 | 48 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                                   | Easy       | [x] | 4m 15s |
 | 49 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) ᴾ       | Medium     | [x] | 20m 57s |
-| 50 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                 | Medium     | [ ]  |         |
+| 50 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                 | Medium     | [x] | 7m 50s |
 | 51 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                                             | Medium     | [ ]  |         |
 | 52 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                       | Medium     | [ ]  |         |
 | 53 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                           | Medium     | [ ]  |         |
