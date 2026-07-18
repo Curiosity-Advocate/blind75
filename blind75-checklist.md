@@ -58,7 +58,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 51 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                                             | Medium     | [x] | 38m 38s |
 | 52 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                       | Medium     | [x] | 8m 26s |
 | 53 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                           | Medium     | [x] | 22m 57s |
-| 54 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                                   | Medium     | [ ]  |         |
+| 54 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                                   | Medium     | [x] | 13m 23s |
 | 55 | [Reorder List](https://leetcode.com/problems/reorder-list/)                                                                                           | Medium     | [ ]  |         |
 | 56 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                                           | Easy       | [ ]  |         |
 | 57 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                             | Easy       | [ ]  |         |
