@@ -62,7 +62,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 55 | [Reorder List](https://leetcode.com/problems/reorder-list/)                                                                                           | Medium     | [x] | 13m 13s |
 | 56 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                                           | Easy       | [ ]  |         |
 | 57 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                             | Easy       | [ ]  |         |
-| 58 | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                           | Medium     | [ ]  |         |
+| 58 | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                           | Medium     | [x] | 26m 29s |
 | 59 | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                 | Easy       | [ ]  |         |
 | 60 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                       | Medium     | [ ]  |         |
 | 61 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                                         | Hard       | [ ]  |         |
