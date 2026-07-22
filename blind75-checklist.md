@@ -64,7 +64,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 57 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                             | Easy       | [ ]  |         |
 | 58 | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                           | Medium     | [x] | 26m 29s |
 | 59 | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                 | Easy       | [ ]  |         |
-| 60 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                       | Medium     | [ ]  |         |
+| 60 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                       | Medium     | [x] | 43m 36s |
 | 61 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                                         | Hard       | [ ]  |         |
 | 62 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                                                 | Medium     | [ ]  |         |
 | 63 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                                         | Medium     | [ ]  |         |
