@@ -68,7 +68,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 61 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                                         | Hard       | [ ]  |         |
 | 62 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                                                 | Medium     | [x] | 38m 40s |
 | 63 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                                         | Medium     | [x] | 31m 49s |
-| 64 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                                     | Easy       | [ ]  |         |
+| 64 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                                     | Easy       | [x] | 14m 57s |
 | 65 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                                             | Medium     | [x] | 24m 43s |
 | 66 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                     | Medium     | [ ]  |         |
 | 67 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                     | Easy       | [ ]  |         |
