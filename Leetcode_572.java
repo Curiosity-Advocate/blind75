@@ -1,3 +1,7 @@
+// There are more efficient algorithms that run in O(n+m) space and time. 
+// The easy one is to assign each node a code. We concat left tree values to right tree plus the current node. 
+// Then we do the same thing to the sub tree. The code for the root of sub-tree represents the tree. Then if any of the nodes in the main tree
+// has the same code then we return true otherwise it'll be false
 public class Leetcode_572 {
     
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
