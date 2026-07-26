@@ -61,7 +61,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 54 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                                   | Medium     | [x] | 13m 23s |
 | 55 | [Reorder List](https://leetcode.com/problems/reorder-list/)                                                                                           | Medium     | [x] | 13m 13s |
 | 56 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                                           | Easy       | [x] | 15m 55s |
-| 57 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                             | Easy       | [ ]  |         |
+| 57 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                             | Easy       | [x] | 9m 17s |
 | 58 | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                           | Medium     | [x] | 26m 29s |
 | 59 | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                 | Easy       | [ ]  |         |
 | 60 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                       | Medium     | [x] | 43m 36s |
