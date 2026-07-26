@@ -78,5 +78,5 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 71 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                                 | Easy       | [ ]  |         |
 | 72 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                             | Medium     | [x] | 24m 52s |
 | 73 | [Word Break](https://leetcode.com/problems/word-break/)                                                                                               | Medium     | [x] | 37m 58s |
-| 74 | [Word Search](https://leetcode.com/problems/word-search/)                                                                                             | Medium     | [ ]  |         |
+| 74 | [Word Search](https://leetcode.com/problems/word-search/)                                                                                             | Medium     | [x] | 29m 39s |
 | 75 | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                                       | Hard       | [ ]  |         |
