@@ -73,7 +73,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 66 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                     | Medium     | [x] | 27m 54s |
 | 67 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                     | Easy       | [x] | 20m 24s |
 | 68 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                           | Medium     | [x] | 14m 45s |
-| 69 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                         | Easy       | [ ]  |         |
+| 69 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                         | Easy       | [x] | 10m 21s |
 | 70 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                   | Easy       | [ ]  |         |
 | 71 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                                 | Easy       | [ ]  |         |
 | 72 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                             | Medium     | [x] | 24m 52s |
