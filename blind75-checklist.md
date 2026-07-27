@@ -71,7 +71,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 64 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                                     | Easy       | [x] | 14m 57s |
 | 65 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                                             | Medium     | [x] | 24m 43s |
 | 66 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                     | Medium     | [x] | 27m 54s |
-| 67 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                     | Easy       | [ ]  |         |
+| 67 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                     | Easy       | [x] | 20m 24s |
 | 68 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                           | Medium     | [x] | 14m 45s |
 | 69 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                         | Easy       | [ ]  |         |
 | 70 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                   | Easy       | [ ]  |         |
