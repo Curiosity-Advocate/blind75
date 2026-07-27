@@ -75,7 +75,7 @@ Counts: ~16 Easy · ~50 Medium · ~9 Hard.
 | 68 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                           | Medium     | [x] | 14m 45s |
 | 69 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                         | Easy       | [x] | 10m 21s |
 | 70 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                   | Easy       | [x] | 17m 26s |
-| 71 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                                 | Easy       | [ ]  |         |
+| 71 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                                 | Easy       | [x] | 4m 12s |
 | 72 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                             | Medium     | [x] | 24m 52s |
 | 73 | [Word Break](https://leetcode.com/problems/word-break/)                                                                                               | Medium     | [x] | 37m 58s |
 | 74 | [Word Search](https://leetcode.com/problems/word-search/)                                                                                             | Medium     | [x] | 29m 39s |
